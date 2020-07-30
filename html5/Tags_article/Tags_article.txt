@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">		
+	<head>
+		<title>Uso da Tag Article</title>
+		
+	</head>
+	<body>
+		<article>
+			<h1>CFB CURSOS</h1>
+			<p>Cursos gratuito no YouTube</p>
+        </article>
+        <article>
+			<h1>CURSOS DISPONIVEIS</h1>
+	        <p>HTML</p>
+	        <p>HTML5</p>
+	        <p>JAVASCRIPT</p>
+	        <p>CSS</p>
+	        <p>C++</p>
+	        <p>QT CREATOR</p>
+        </article>
+
+
+	</body>
+
+</html>
+
+

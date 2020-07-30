@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<meta charset="UTF-8">
+		<title>Criação de Links</title>
+		<link rel="stylesheet" href="estilo.css">
+	</head>
+	<body>
+		<a href="https://youtube.com/videos/" target="_blank">Videos</a>
+		<a href="https://instagram.com/imagens/" target="_blank">Imagens</a>
+		<a href="https://facebook.com/pessoas/" target="_blank">Pessoas</a>
+
+	</body>
+</html>

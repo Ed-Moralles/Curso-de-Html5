@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="pt-br">		
+	<head>
+		<title>Uso da Tag Address</title>
+		
+	</head>
+	<body>
+		Autor: Bruno P. Campos <br>
+		Se inscreva no nosso <a href="http://www.youtube.com/canalfessorbruno" target="_blank">canal!!!</a>
+	</body>
+
+</html>
+
+

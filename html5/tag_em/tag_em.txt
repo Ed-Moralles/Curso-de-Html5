@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">		
+	<head>
+		<title>Uso da tag em</title>
+		<style>
+			em{
+				color: #f00;
+			}
+			em em{
+				color: #00f;
+			}
+		</style>
+		
+	</head>
+	<body>
+		
+		<p><em>Tag em</em>, para ênfase - Curso de HTML Completo e Profissional #27</p>
+
+		
+		<p><em>Tag em</em>, para ênfase - Curso de <em>HTML Completo e Profissional</em> #27</p>
+
+		<p>Tag em, para ênfase - <em>Curso de <em>HTML</em> Completo e Profissional</em> #27</p>
+
+	</body>
+
+</html>
+
+

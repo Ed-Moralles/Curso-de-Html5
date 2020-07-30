@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="pt-br">		
+	<head>
+		<title>Uso da Tag p</title>
+		
+	</head>
+	<body>	
+		<p>Curso de HTML5 Completo e Profissional</p><p>Uso da Tag p</p>
+		<p>Aula 2 </p>
+		
+	</body>
+
+</html>
+
+

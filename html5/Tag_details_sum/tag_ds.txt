@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+	<head>
+		<title>Uso da tag details e summary</title>
+			<meta charset="utf-8">
+		<style>
+			summary::-webkit-details-marker{
+				color: #f00;
+			}
+			details[open] summary::-webkit-details-marker{
+				color: #00f;
+			}
+			details ul{
+				background-color: #ddd;
+				border: 1px solid #000;
+				border-radius: 15px;
+				padding: 20px;
+
+			}
+			
+		</style>	
+		
+	</head>
+	<body>
+		<details>
+			<summary>Cursos do Canal</summary>
+			<ul>
+			    <li>HTML Curso completo e profissional</li>
+				<li>CSS</li>
+				<li>JavaScript</li>
+				<li>PHP</li>
+				<li>C++</li>
+				<li>Photoshop</li>
+				<li>Arduino</li>
+			</ul>	
+			
+			<ul>
+			    <li>HTML Curso completo e profissional</li>
+				<li>CSS</li>
+				<li>JavaScript</li>
+				<li>PHP</li>
+				<li>C++</li>
+				<li>Photoshop</li>
+				<li>Arduino</li>
+			</ul>
+			
+		</details>	
+			<ul>
+			    <li>HTML Curso completo e profissional</li>
+				<li>CSS</li>
+				<li>JavaScript</li>
+				<li>PHP</li>
+				<li>C++</li>
+				<li>Photoshop</li>
+				<li>Arduino</li>
+			</ul>	
+	</body>
+
+</html>
+
+

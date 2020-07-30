@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-br">		
+	<head>
+		<title>Uso da Tag bdo</title>
+		
+	</head>
+	<body>
+
+		<bdo dir="ltr">CFB CURSOS - Curso de HTML completo e profissional</bdo><br>
+		<bdo dir="rtl">CFB CURSOS - Curso de HTML completo e profissional</bdo><br>
+		<p><bdo dir="rtl">CFB CURSOS - Curso de HTML completo e profissional</bdo></p><br>
+		<p dir="ltr">CFB CURSOS - Curso de HTML completo e profissional</p><br>
+		<p dir="rtl">CFB CURSOS - Curso de HTML completo e profissional</p><br>
+		
+	</body>
+
+</html>
+
+

@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<meta charset="UTF-8">
+		<title>Criação de Listas</title>
+	</head>
+	<body>
+		<h1>Aula de criação de Listas</h1>
+		<ul>
+			<li>Vermelho</li>
+			<li>Verde</li>
+			<li>Azul</li>
+			<li>Amarelo</li>
+			<li>Preto</li>
+			<li>Branco</li>
+		</ul>
+		<ul type="square">
+			<li>Fiat</li>
+			<ul type="square">
+				<li>Palio</li>
+				<li>Toro</li>
+				<li>Punto</li>
+				<li>Bravo</li>
+			</ul>
+			<li>Ford</li>
+			<ul type="square">
+				<li>Ka</li>
+				<li>Ecosport</li>
+				<li>Mondeo</li>
+			</ul>
+			<li>GM</li>
+			<ul type="square">
+				<li>Camaro</li>
+				<li>Onix</li>
+				<li>Celta</li>				
+			</ul>
+			<li>VW</li>
+			<ul type="square">
+				<li>Gol</li>
+				<li>Polo</li>
+				<li>Fusca</li>
+			</ul>
+			<li>Renault</li>
+			<ul type="square">
+				<li>Kwid</li>
+				<li>Clio</li>
+				<li>Sandero</li>
+			</ul>
+			
+		</ul>
+		<ul type="circle">
+			<li>Vermelho</li>
+			<li>Verde</li>
+			<li>Azul</li>
+			<li>Amarelo</li>
+			<li>Preto</li>
+			<li>Branco</li>
+		</ul>
+		<ol>
+			<li>Vermelho</li>
+			<li>Verde</li>
+			<li>Azul</li>
+			<li>Amarelo</li>
+			<li>Preto</li>
+			<li>Branco</li>
+		</ol>
+		<ol type="i">
+			<li>Vermelho</li>
+			<li>Verde</li>
+			<li>Azul</li>
+			<li>Amarelo</li>
+			<li>Preto</li>
+			<li>Branco</li>
+		</ol>
+		<ol type="I">
+			<li>Vermelho</li>
+			<li>Verde</li>
+			<li>Azul</li>
+			<li>Amarelo</li>
+			<li>Preto</li>
+			<li>Branco</li>
+		</ol>
+		<ol type="a">
+			<li>Vermelho</li>
+			<li>Verde</li>
+			<li>Azul</li>
+			<li>Amarelo</li>
+			<li>Preto</li>
+			<li>Branco</li>
+		</ol>
+		<ol type="A">
+			<li>Vermelho</li>
+			<li>Verde</li>
+			<li>Azul</li>
+			<li>Amarelo</li>
+			<li>Preto</li>
+			<li>Branco</li>
+		</ol>
+		<ol type="1" start="10">
+			<li>Vermelho</li>
+			<li>Verde</li>
+			<li>Azul</li>
+			<li>Amarelo</li>
+			<li>Preto</li>
+			<li>Branco</li>
+		</ol>
+		<ol type="1">
+			<li>Fiat</li>
+			<ol type="1">
+				<li>Palio</li>
+				<li>Toro</li>
+				<li>Punto</li>
+				<li>Bravo</li>
+			</ol>
+
+	</body>
+</html>

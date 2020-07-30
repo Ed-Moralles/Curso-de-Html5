@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="pt-br">		
+	<head>
+		<title>Uso da tag embed</title>
+		
+	</head>
+	<body>
+		
+		<embed src="audio1.mp3">
+
+	</body>
+
+</html>
+
+

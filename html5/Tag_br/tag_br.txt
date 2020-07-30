@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-br">		
+	<head>
+		<title>Estrutura Inicial do HTML5</title>
+		<style type="text/css">
+			.esp1{line-height: 0;}
+			
+		</style>
+		
+	</head>
+	<body>
+
+		<h1>MODELO 1</h1>
+
+		<p><a href="https://www.youtube.com/watch?v=GPK8A-A156o&list=PLx4x_zx8csUi47Bnugpk78nqJN6rYvEnV" target="_blank">Curso de CSS</a></p>
+		<p><a href="https://www.youtube.com/watch?v=lcKo-ycLDNw&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC" target="_blank">Curso de Javascript</a></p>
+		<p><a href="https://www.youtube.com/watch?v=nUnR8Q_hF4U&list=PLx4x_zx8csUgB4R1dDXke4uKMq-IrSr4B" target="_blank">Curso de PHP</a></p>
+		<p><a href="https://www.youtube.com/watch?v=nUQKr-ey86Y&list=PLx4x_zx8csUjczg1qPHavU1vw1IkBcm40" target="_blank">Curso de C++</a></p>
+		<p><a href="https://www.youtube.com/watch?v=XPtgUK0ggv4&list=PLx4x_zx8csUg7o7ft5MA-A-qSUOmTlGzh" target="_blank">Seção Notalwindows no CFB Cursos</a></p>
+
+		<h1>MODELO 2</h1>
+
+
+		<p class="esp1"><a href="https://www.youtube.com/watch?v=GPK8A-A156o&list=PLx4x_zx8csUi47Bnugpk78nqJN6rYvEnV" target="_blank">Curso de CSS</a></p>
+		<p class="esp1"><a href="https://www.youtube.com/watch?v=lcKo-ycLDNw&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC" target="_blank">Curso de Javascript</a></p>
+		<p class="esp1"><a href="https://www.youtube.com/watch?v=nUnR8Q_hF4U&list=PLx4x_zx8csUgB4R1dDXke4uKMq-IrSr4B" target="_blank">Curso de PHP</a></p>
+		<p class="esp1"><a href="https://www.youtube.com/watch?v=nUQKr-ey86Y&list=PLx4x_zx8csUjczg1qPHavU1vw1IkBcm40" target="_blank">Curso de C++</a></p>
+		<p class="esp1"><a href="https://www.youtube.com/watch?v=XPtgUK0ggv4&list=PLx4x_zx8csUg7o7ft5MA-A-qSUOmTlGzh" target="_blank">Seção Notalwindows no CFB Cursos</a></p>
+
+		<h1>MODELO3</h1>
+
+
+		<p><a href="https://www.youtube.com/watch?v=GPK8A-A156o&list=PLx4x_zx8csUi47Bnugpk78nqJN6rYvEnV" target="_blank">Curso de CSS</a></p>
+		<p><a href="https://www.youtube.com/watch?v=lcKo-ycLDNw&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC" target="_blank">Curso de Javascript</a></p>
+		<p><a href="https://www.youtube.com/watch?v=nUnR8Q_hF4U&list=PLx4x_zx8csUgB4R1dDXke4uKMq-IrSr4B" target="_blank">Curso de PHP</a></p>
+		<p class="esp1"><a href="https://www.youtube.com/watch?v=nUQKr-ey86Y&list=PLx4x_zx8csUjczg1qPHavU1vw1IkBcm40" target="_blank">Curso de C++</a></p>
+		<p class="esp1"><a href="https://www.youtube.com/watch?v=XPtgUK0ggv4&list=PLx4x_zx8csUg7o7ft5MA-A-qSUOmTlGzh" target="_blank">Seção Notalwindows no CFB Cursos</a></p>
+
+		<h1>MODELO4</h1>
+
+
+		<p class="esp1"><a href="https://www.youtube.com/watch?v=GPK8A-A156o&list=PLx4x_zx8csUi47Bnugpk78nqJN6rYvEnV" target="_blank">Curso de CSS</a></p>
+		<p class="esp1"><a href="https://www.youtube.com/watch?v=lcKo-ycLDNw&list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC" target="_blank">Curso de Javascript</a></p>
+		<p class="esp1"><a href="https://www.youtube.com/watch?v=nUnR8Q_hF4U&list=PLx4x_zx8csUgB4R1dDXke4uKMq-IrSr4B" target="_blank">Curso de PHP</a></p>
+		<p><a href="https://www.youtube.com/watch?v=nUQKr-ey86Y&list=PLx4x_zx8csUjczg1qPHavU1vw1IkBcm40" target="_blank">Curso de C++</a></p>
+		<p><a href="https://www.youtube.com/watch?v=XPtgUK0ggv4&list=PLx4x_zx8csUg7o7ft5MA-A-qSUOmTlGzh" target="_blank">Seção Notalwindows no CFB Cursos</a></p>
+
+
+		
+
+		
+
+		 
+
+		  
+
+		 
+		
+	</body>
+
+</html>
+
+

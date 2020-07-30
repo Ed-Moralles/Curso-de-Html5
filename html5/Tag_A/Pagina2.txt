@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="pt-br">		
+	<head>
+		<title>Uso da Tag A</title>
+		
+	</head>
+	<body>
+		
+				<p>Voce esta na segunda pagina!!! </p><br>
+				<a href="Tag_A.html">Voltar</a><br>
+			
+	</body>
+
+</html>
+
+

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-br">		
+	<head>
+		<title>Como mapear links</title>
+		
+	</head>
+	<body>
+		<img src="mapa.png" usemap="#mapaBrasil">
+			<map name="mapaBrasil">
+				<area shape="poly"  href="https://www.youtube.com/cfb cursos" target="_blank" alt="Minas Gerais"coords="275,300,285,287,311,285,319,279,320,254,328,240,336,245,359,234,363,240,404,255,398,273,401,279,391,286,387,306,376,324,333,339,317,303,297,304,276,300">
+				
+
+
+			</map>
+		
+	</body>
+
+</html>
+
+

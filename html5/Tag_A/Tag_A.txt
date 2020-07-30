@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-br">		
+	<head>
+		<title>Uso da Tag A</title>
+		
+	</head>
+	<body>
+		<ul>
+			<li>
+				<a>CLIQUE AQUI</a><br>
+				<a href="https://www.youtube.com/">CLIQUE AQUI</a><br>
+				<a href="https://www.youtube.com/" target="_blank">CLIQUE AQUI</a><br>
+				<a href="Pagina2.html">Pagina 2</a><br>
+			</li>
+	</body>
+
+</html>
+
+

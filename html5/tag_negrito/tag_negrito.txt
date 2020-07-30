@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">		
+	<head>
+		<title>Uso da Tag B - Negrito</title>
+		
+	</head>
+	<style type="text/css">
+		b{font-weight: 1000;}
+		.vermelho{color:#f00;}
+		.verde{color:#0f0;}
+		.azul{color:#00f;}
+		
+	</style>
+	<body>
+		<article>
+			<h1>PRINCIPAL</h1>
+			<p><b class="vermelho">Lorem ipsum</b> dolor sit amet, consectetur adipisicing elit. Voluptatem repellat accusamus sit iure cumque. Odio eaque obcaecati rerum, beatae eligendi eveniet iste perferendis ratione, quasi esse, laborum nemo! Architecto, mollitia.</p>
+			<p><b class="verde">Lorem ipsum</b> dolor sit amet, consectetur adipisicing elit. Labore nisi, incidunt odit earum quasi ipsum reiciendis, soluta suscipit quo autem facilis culpa sunt. Consequuntur ducimus eius maxime, quam sint consectetur.</p>
+			<p><b class="azul">Lorem ipsum</b> dolor sit amet, consectetur adipisicing elit. Temporibus quia assumenda, in omnis explicabo saepe quam officiis molestiae, ipsum placeat inventore enim tempore adipisci perspiciatis delectus voluptas unde sequi recusandae!</p>
+		</article>
+		
+	</body>
+ 
+</html>
+
+

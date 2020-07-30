@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<meta charset="UTF-8">
+		<title>Css</title>
+		<link rel="stylesheet" href="estilo.css"/>
+	</head>
+	
+	<body>
+
+		<div class="overlay-box">
+			<div>
+			Texto aqui.
+			</div>
+		</div>
+		
+				
+				
+	</body>
+</html>

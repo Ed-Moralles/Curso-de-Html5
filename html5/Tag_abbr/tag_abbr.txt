@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="pt-br">		
+	<head>
+		<title>Uso da Tag abbr</title>
+		
+	</head>
+	<body>
+		<p><abbr title="Edgar">EEMT</abbr> ama muito!!!<abbr title="Edilene">EAG</abbr></p>
+	</body>
+
+</html>
+
+
